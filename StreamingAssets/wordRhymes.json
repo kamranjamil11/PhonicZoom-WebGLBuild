@@ -1,0 +1,42 @@
+[
+  {
+    "word": "Hello",
+    "relatives": [
+      "Hella",
+      "Haier",
+      "Humor",
+      "Horse",
+      "Hour"
+    ]
+  },
+  {
+    "word": "Snap",
+    "relatives": [
+      "Samp",
+      "Sonex",
+      "Sony",
+      "Sugar",
+      "Slap"
+    ]
+  },
+  {
+    "word": "Lower",
+    "relatives": [
+      "Looser",
+      "Lover",
+      "Looter",
+      "Lost",
+      "Least"
+    ]
+  },
+  {
+    "word": "Computer",
+    "relatives": [
+      "Cooler",
+      "Coaster",
+      "Category",
+      "Cars",
+      "Comp"
+    ]
+  }
+]
